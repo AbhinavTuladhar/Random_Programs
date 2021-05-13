@@ -325,5 +325,7 @@ while condition:
 	pygame.display.update()
 	fpsClock.tick(fps)
 
+# Printing the number of times reset for debugging purposes
 print(reset_counter)
+
 pygame.quit()
