@@ -18,3 +18,6 @@ Pygame programs:
 Pong V2 - An 'improved' version of Pong in pygame
 
 Pong(pygame): Code copied from a YouTube tutorial
+
+
+Only the first three programs were written entirely by me. The others were either directly copied from some external source or modified in some way after copying.
