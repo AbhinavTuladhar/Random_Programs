@@ -3,7 +3,7 @@
 
 Tkinter (GUI) programs:
 
-Binary search guessing game - 'Guess' a random number between two intervals in as few turns as possible
+Binary search guessing game - 'Guess' a randomly generated number between two intervals in as few turns as possible
 
 Connect four attempt - A player vs player version of Connect Four.
 
